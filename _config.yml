@@ -1,7 +1,1 @@
 baseurl: /blogs
-
-# markdown setting
-markdown: kramdown
-highlighter: rouge
-kramdown:
-  input: GFM
